@@ -118,4 +118,3 @@ public:
 	~CGame();
 };
 typedef CGame* LPGAME;
-
