@@ -1,4 +1,3 @@
-
 #pragma once
 
 #include "Sprite.h"
@@ -18,3 +17,4 @@ public:
 };
 
 typedef CAnimationFrame* LPANIMATION_FRAME;
+
